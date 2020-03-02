@@ -9,6 +9,10 @@
 <body>
 
   <h1>Alex Parra</h1>
+    
+  <?php
+       echo "Funciona php";
+  ?>
 
 </body>
 </html>
